@@ -1,0 +1,5 @@
+C:\Users\barad\source\repos\sql_project2\sql_project2\x64\Debug\sql_project2.vcxproj.AssemblyReference.cache
+C:\Users\barad\source\repos\sql_project2\sql_project2\x64\Debug\sqlproject2.base.resources
+C:\Users\barad\source\repos\sql_project2\sql_project2\x64\Debug\sqlproject2.registrationForm.resources
+C:\Users\barad\source\repos\sql_project2\sql_project2\x64\Debug\sqlproject2.remove.resources
+C:\Users\barad\source\repos\sql_project2\sql_project2\x64\Debug\sql_project2.vcxproj.GenerateResource.cache
